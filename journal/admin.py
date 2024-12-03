@@ -6,7 +6,7 @@ from django.utils.safestring import mark_safe
 from journal.models import Journal
 
 admin.site.site_header = "Управление проектом"
-admin.site.site_title = "Админка проекта"
+admin.site.site_title = "Гейзер"
 admin.site.index_title = "Добро пожаловать в панель управления"
 
 
